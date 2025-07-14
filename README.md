@@ -1,7 +1,5 @@
 # TechGear Pro - E-commerce Website
 
-**A Modern E-commerce Platform Built for WebFX Portfolio**
-
 ![TechGear Pro](https://via.placeholder.com/800x400/007bff/ffffff?text=TechGear+Pro+E-commerce+Platform)
 
 ## 🚀 Project Overview
