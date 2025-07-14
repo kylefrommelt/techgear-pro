@@ -1,0 +1,50 @@
+{
+  "name": "techgear-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "echo 'Ready for deployment to any web server'",
+    "test": "echo 'Tests would go here in production'"
+  },
+  "keywords": [
+    "ecommerce",
+    "website",
+    "javascript",
+    "bootstrap",
+    "html5",
+    "css3",
+    "webfx",
+    "portfolio",
+    "responsive",
+    "shopping-cart"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/yourusername"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/techgear-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/techgear-pro/issues"
+  },
+  "homepage": "https://yourusername.github.io/techgear-pro",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
