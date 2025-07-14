@@ -1,7 +1,5 @@
 # TechGear Pro - E-commerce Website
 
-![TechGear Pro](https://via.placeholder.com/800x400/007bff/ffffff?text=TechGear+Pro+E-commerce+Platform)
-
 ## 🚀 Project Overview
 
 TechGear Pro is a fully functional e-commerce website built to demonstrate modern web development skills. This project showcases proficiency in responsive design, interactive JavaScript, e-commerce functionality, and professional-grade code organization.
